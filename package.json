@@ -1,0 +1,13 @@
+{
+	"name": "TalkComotron",
+	"description": "A serial port chat. Example for using serial-port and GtkD.",
+	"homepage": "http://github.com/NCrashed/TalkComotron",
+	"copyright": "Copyright © 2013, Gushcha Anton",
+	"authors": [
+		"NCrashed - Gushcha Anton"
+	],
+	"dependencies": {
+        "serial-port": "~master",
+        "gtk-d:gtkd": "~master"
+	}
+}
