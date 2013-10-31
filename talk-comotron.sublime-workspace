@@ -1,0 +1,589 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fa",
+				"fabric"
+			],
+			[
+				"IA",
+				"IArchiveFabric"
+			],
+			[
+				"ext",
+				"extensions"
+			],
+			[
+				"buil",
+				"buildNormalizedPath"
+			],
+			[
+				"chec",
+				"checkPathSecurity"
+			],
+			[
+				"regis",
+				"registerPack"
+			],
+			[
+				"IR",
+				"IResourceManager"
+			],
+			[
+				"cached",
+				"cachedFullName"
+			],
+			[
+				"has",
+				"hasResource"
+			],
+			[
+				"cac",
+				"cachedExtension"
+			],
+			[
+				"Res",
+				"ResourceSearch"
+			],
+			[
+				"exte",
+				"extensions"
+			],
+			[
+				"mF",
+				"mFabricMap"
+			],
+			[
+				"exten",
+				"extension"
+			],
+			[
+				"Resour",
+				"ResourceNotFoundException"
+			],
+			[
+				"IResou",
+				"IResourcePack"
+			],
+			[
+				"IRes",
+				"IResourcePack"
+			],
+			[
+				"IRe",
+				"IResourcePack"
+			],
+			[
+				"reg",
+				"regExt"
+			],
+			[
+				"regi",
+				"registeredExtensions"
+			],
+			[
+				"fab",
+				"fabrics"
+			],
+			[
+				"Borey",
+				"BoreyLoggedException"
+			],
+			[
+				"De",
+				"DerelictException"
+			],
+			[
+				"was",
+				"wasEmpty"
+			],
+			[
+				"rot",
+				"rotation"
+			],
+			[
+				"Si",
+				"SimpleSceneNode"
+			],
+			[
+				"Ran",
+				"RangeElement"
+			],
+			[
+				"Simp",
+				"SimpleNode"
+			],
+			[
+				"mBasis",
+				"mBasisV"
+			],
+			[
+				"loca",
+				"localVector"
+			],
+			[
+				"ba",
+				"basisU"
+			],
+			[
+				"bas",
+				"basisV"
+			],
+			[
+				"basis",
+				"basisU"
+			],
+			[
+				"vector",
+				"vector3df"
+			],
+			[
+				"this",
+				"thistype"
+			],
+			[
+				"mode",
+				"modelName"
+			],
+			[
+				"shoul",
+				"shouldExit"
+			],
+			[
+				"mCurso",
+				"mCursorPosDelegate"
+			],
+			[
+				"Ke",
+				"KeyPosition"
+			],
+			[
+				"borey",
+				"boreyCore"
+			],
+			[
+				"win",
+				"window"
+			],
+			[
+				"cl",
+				"clearCurrentContext"
+			],
+			[
+				"shou",
+				"shouldBeClosed"
+			],
+			[
+				"ve",
+				"vector2di"
+			],
+			[
+				"GL",
+				"GLFWmonitor"
+			],
+			[
+				"vec",
+				"vector2du"
+			],
+			[
+				"inn",
+				"innerMonitors"
+			],
+			[
+				"static",
+				"staticThis"
+			],
+			[
+				"GLF",
+				"GLFW3Monitor"
+			],
+			[
+				"Sim",
+				"SimpleBoreyCore"
+			],
+			[
+				"GLFW3",
+				"GLFW3Monitor"
+			],
+			[
+				"cur",
+				"currDeleg"
+			],
+			[
+				"cu",
+				"currDeleg"
+			],
+			[
+				"on",
+				"onChangeCallback"
+			],
+			[
+				"Bor",
+				"BoreyLoggedException"
+			],
+			[
+				"Gamm",
+				"GammaRamp"
+			],
+			[
+				"Ga",
+				"GammaRamp"
+			],
+			[
+				"vect",
+				"vector3f"
+			],
+			[
+				"not",
+				"nothrow"
+			],
+			[
+				"D",
+				"DEFAULT_EXT"
+			],
+			[
+				"DE",
+				"DEFAULT_DIR"
+			],
+			[
+				"mL",
+				"mLocation"
+			],
+			[
+				"logS",
+				"logsStyles"
+			],
+			[
+				"E",
+				"ELOG_LEVEL"
+			],
+			[
+				"is",
+				"isCoreLoaded"
+			],
+			[
+				"de",
+				"dependencies"
+			],
+			[
+				"bore",
+				"boreyCore"
+			],
+			[
+				"BO",
+				"BOREY_PATCH_VERSION"
+			],
+			[
+				"B",
+				"BOREY_MAJOR_VERSION"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "source/chat/gui/main.d",
+			"settings":
+			{
+				"buffer_size": 1247,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 52.0,
+		"selected_items":
+		[
+			[
+				"Build: Dub unittests",
+				"Build: Dub unittests"
+			],
+			[
+				"Build: Debug example",
+				"Build: Debug example"
+			],
+			[
+				"Buil",
+				"Build: Dub unittests"
+			],
+			[
+				"buil",
+				"Build: Dub unittests"
+			],
+			[
+				"Build",
+				"Build: Dub unittests"
+			],
+			[
+				"Bu",
+				"Build: Build"
+			],
+			[
+				"Bui",
+				"Build: Dub unittests"
+			],
+			[
+				"unit",
+				"Build: Dub unittests"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/run/media/ncrashed/4ACE9C57CE9C3D5F/dev/haskell/rainwalls/main_reduced2.hs",
+		"/run/media/ncrashed/4ACE9C57CE9C3D5F/dev/haskell/rainwalls/main_reduced.hs",
+		"/run/media/ncrashed/4ACE9C57CE9C3D5F/dev/haskell/rainwalls/main.hs",
+		"/home/ncrashed/dev/d/test/test/package.json",
+		"/home/ncrashed/dev/d/BoreyEngine/package.json",
+		"/home/ncrashed/dev/d/BoreyEngine/source/implement/borey/resource/localpack.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/resouce/archive.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/resouce/archivemanager.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/resouce/manager.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/implement/borey/resource/filesystem.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/log.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/implement/borey/resource/simplearchivemanager.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/implement/borey/resource/simplemanager.d",
+		"/home/ncrashed/dev/d/BoreyEngine/LICENSE",
+		"/home/ncrashed/dev/d/BoreyEngine/README.md",
+		"/home/ncrashed/dev/d/fmtg/sublime.sublime-project",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/video/buffer.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/video/driver.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/video/gammaramp.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/video/mesh.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/video/model.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/video/monitor.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/video/videomode.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/video/window.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/core.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/exception.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/keyboard.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/mouse.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/video/shader/base.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/video/shader/fragment.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/video/shader/vertex.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/resouce/fabric.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/resouce/group.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/resouce/item.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/resouce/pack.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/scene/manager.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/scene/node.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/util/loader/functions.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/util/loader/loader.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/util/common.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/util/frustum.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/util/matrix.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/util/plane.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/util/quaternion.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/util/vector.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/implement/borey/constants.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/implement/borey/glfwkeymap.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/implement/borey/main.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/implement/borey/simplecore.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/implement/borey/stdlog.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/implement/borey/video/opengldriver.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/implement/borey/video/glfwwindow.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/implement/borey/video/glfwmonitor.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/implement/borey/scene/simplemanager.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/implement/borey/scene/simplenode.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/examples/debugExample/source/main.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/examples/01.Window/source/main.d",
+		"/home/ncrashed/usr/local/vspd-1.47-dist/README",
+		"/home/ncrashed/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/ncrashed/dev/d/BoreyEngine/sublime.sublime-project",
+		"/home/ncrashed/dev/d/BoreyEngine/source/implement/stdlog.d",
+		"/home/ncrashed/dev/d/irrlicht-1.8/include/irrTypes.h",
+		"/home/ncrashed/dev/d/irrlichtd/trunk/README",
+		"/home/ncrashed/dev/d/BoreyEngine/source/examples/debugExample/package.json",
+		"/home/ncrashed/dev/d/irrlicht-1.8/include/IQ3Shader.h",
+		"/home/ncrashed/.aerospace/bin/ncrashed.png",
+		"/home/ncrashed/dev/d/BoreyEngine/source/implement/borey/util/common.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/util/video/window.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/util/range.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/util/loader.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/interface/borey/util/functions.d",
+		"/home/ncrashed/dev/d/BoreyEngine/source/implement/borey/BoreyException.d",
+		"/home/ncrashed/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/ncrashed/dev/d/BoreyEngine/source/app.d",
+		"/home/ncrashed/dev/haskell/gpipe-tut/box.lhs",
+		"/home/ncrashed/dev/d/testprj/source/app.d"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/ncrashed/dev/d/BoreyEngine/source"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"glfwGetFramebufferSize",
+			"~this()",
+			"unittest\n{",
+			"unittest",
+			"mChildren",
+			"innerChildren",
+			"(cast()mChildren)",
+			"Quaternion.create",
+			"decorated",
+			") ",
+			"vector3f",
+			"vec3",
+			"VecSize",
+			"angle",
+			"ret.",
+			"@trusted",
+			"LOG_ERROR_LEVEL",
+			"*",
+			"Foobar",
+			"scroll_s"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"unittest\n{\n    writeln(\"Testing!\");",
+			"cast()mChildren",
+			"mChildren",
+			"innerChildren",
+			"Quaternion",
+			"vector3df",
+			"vectorst",
+			"",
+			"ELOG_LEVEL",
+			"",
+			"Borey Engine"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source/chat/gui/main.d",
+					"settings":
+					{
+						"buffer_size": 1247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1085,
+								1085
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/D/D.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 660.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 328.0
+	},
+	"replace":
+	{
+		"height": 230.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true
+}

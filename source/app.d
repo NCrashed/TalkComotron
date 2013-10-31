@@ -1,6 +1,8 @@
-import std.stdio;
+import gui.main;
 
-void main()
+void main(string[] args)
 { 
-	writeln("Edit source/app.d to start your project.");
+	auto appLayer = new ApplicationLayer(args); // Application layer
+
+    appLayer.runGui();
 }

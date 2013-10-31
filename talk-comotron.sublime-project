@@ -1,0 +1,30 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+    "build_systems":
+    [
+        {
+            "name": "Dub",
+            "working_dir": "$project_path",
+            "cmd": ["dub", "build", "--build=debug"],
+
+            "variants": 
+            [
+                { 
+                    "name": "Dub debug",
+                    "working_dir": "$project_path",
+                    "cmd": ["dub", "build", "--build=debug"]
+                },
+                { 
+                    "name": "Dub release",
+                    "working_dir": "$project_path",
+                    "cmd": ["dub", "build", "--build=release"]
+                }
+            ]            
+        }
+    ]
+}
